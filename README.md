@@ -1,4 +1,6 @@
-# UNP_MYSQL
+
+# UNP_PROJECT_MYSQL_ADVENTURE_WORKS
+
 Step 1: Create the database and the tables:
 
 Create the tables with the columns mentioned. Put the constraints (primary key, foreign key etc) in the columns.
